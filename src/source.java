@@ -17,7 +17,7 @@ import java.util.logging.Logger;
 
 public class source extends JFrame implements ActionListener, NativeKeyListener {
     source(){
-        super("DENEME");
+        super("ScreenShot");
         this.setLayout(null);
         menu();
         color();
