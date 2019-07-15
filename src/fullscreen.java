@@ -22,7 +22,6 @@ public class fullscreen {
         Rectangle rectArea = new Rectangle(Toolkit.getDefaultToolkit().getScreenSize());
 
 
-        // Define an area of size 500*400 starting at coordinates (10,50)
         BufferedImage screenFullImage = robot.createScreenCapture(rectArea);
         try {
             ImageIO.write(screenFullImage, format, new File(fileName));
