@@ -4,12 +4,12 @@
 Usage of the program is that, you can press "a" where the x location of your view start and press "s" where the end of the frame location.
 
 <ul>For importing Library;
-	<ol>Right click on your project</ol>
-	<ol>Select Build Path</ol>
-	<ol>Click on Configure Build Path</ol>
-	<ol>Click on Libraries and select Add External JARs</ol>
-	<ol>Select the jar file from the required folder</ol>
-	<ol>Click and Apply and Ok</ol></ul>
+	<li>Right click on your project</li>
+	<li>Select Build Path</li>
+	<li>Click on Configure Build Path</li>
+	<li>Click on Libraries and select Add External JARs</li>
+	<li>Select the jar file from the required folder</li>
+	<li>Click and Apply and Ok</li></ul>
 
  <p> after execute the program;</p>
   <p>you need to select the coordinates,</p>
