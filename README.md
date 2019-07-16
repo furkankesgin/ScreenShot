@@ -17,3 +17,5 @@ Usage of the program is that, you can press "a" where the x location of your vie
   <li>for y coordinates press “b” to select.</li>
   <li>for shot the screenshot press “é” button on your keyboard.(This can be on  your bottom of the Escape button.)</li></ul>
 
+<img width="301" alt="Screen Shot 2019-07-16 at 3 45 54 PM" src="https://user-images.githubusercontent.com/29360527/61296470-d33dc900-a7e2-11e9-8f48-e47f5a85b9fb.png">
+
